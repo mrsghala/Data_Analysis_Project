@@ -42,7 +42,7 @@ Ghala Althubaity
 ---
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Sales Map
-![Map](images/map.png)
+![Map](map.png)
