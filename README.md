@@ -28,8 +28,11 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 ## ✦ Tools Used
 
 • Power BI
+
 • Data Visualization
+
 • Business Intelligence
+
 • Data Analysis
 
 ---
@@ -41,13 +44,15 @@ You can access the dataset from this repository.
 
 ---
 
-## 🪄 Author
-Ghala Althubaity
-
----
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
 ## Sales Map
 ![Map](map.png)
+
+---
+
+
+## 🪄 Author
+Ghala Althubaity
