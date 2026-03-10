@@ -46,4 +46,4 @@ Ghala Althubaity
 
 ## Sales Map
 
-![Map](images/map.png)
+![Map](images:map.png.jpg)
