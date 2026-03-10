@@ -1,6 +1,6 @@
 # Sales Performance Dashboard (Power BI)
 
-## ↓ 
+## ✦ 
 This project presents an interactive Sales Performance Dashboard built using Power BI.  
 The dashboard provides insights into sales, profit, and profit margin across different product categories, sub-categories, and states within the United States.
 
@@ -29,7 +29,7 @@ The goal of the project is to demonstrate how business intelligence tools can tr
 
 ---
 
-## ›› Dataset
+## ✦ Dataset
 
 The dataset used in this project was provided as a clean and ready-to-use dataset.
 You can access the dataset from this repository.
