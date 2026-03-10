@@ -24,6 +24,13 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 
 ---
 
+## ✦ Key Insights
+
+- Technology category generated the highest profit.
+- Some sub-categories such as Tables show negative profit.
+- Overall profit margin is around 12.5%.
+
+
 
 ## ✦ Tools Used
 
