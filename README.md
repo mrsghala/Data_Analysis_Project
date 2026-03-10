@@ -31,6 +31,8 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 - Overall profit margin is around 12.5%.
 
 
+---
+
 
 ## ✦ Tools Used
 
