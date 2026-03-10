@@ -37,13 +37,6 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 
 ---
 
-## ✦ Dataset
-
-The dataset used in this project was provided as a clean and ready-to-use dataset.
-You can access the dataset from this repository.
-
----
-
 ## Dashboard Preview
 
 ![Dashboard](dashboard.png)
@@ -56,3 +49,11 @@ You can access the dataset from this repository.
 
 ## 🪄 Author
 Ghala Althubaity
+
+---
+
+
+## ✦ Dataset
+
+The dataset used in this project was provided as a clean and ready-to-use dataset.
+You can access the dataset from this repository.
