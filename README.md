@@ -1,6 +1,6 @@
 # Sales Performance Dashboard | Power BI
 
-## ✦ 
+## ✦ Overview
 This project presents an interactive Sales Performance Dashboard built using Power BI.
 The dashboard provides insights into sales, profit, and profit margin across different product categories, sub-categories, and states within the United States.
 
@@ -31,22 +31,10 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 - Overall profit margin is around 12.5%.
 
 
----
-
-
-## ✦ Tools Used
-
-• Power BI
-
-• Data Visualization
-
-• Business Intelligence
-
-• Data Analysis
 
 ---
 
-## Dashboard Preview
+## ✦ Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
@@ -56,7 +44,7 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 ---
 
 
-## ✦ Dataset
+## › Dataset
 
 The dataset used in this project was provided as a clean and ready-to-use dataset.
 You can access the dataset from this repository.
@@ -66,3 +54,5 @@ You can access the dataset from this repository.
 
 ## 🪄 Author
 Ghala Althubaity
+
+Linkedin: &nbsp; <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372"><img src="https://cdn.j
