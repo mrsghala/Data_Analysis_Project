@@ -9,9 +9,9 @@ The dashboard enables stakeholders to track key metrics, identify profitable seg
 ## ✦ Business Problem
 Companies often struggle to identify which products drive profitability and which contribute to losses.
 This dashboard helps answer:
-Which product categories generate the highest profit?
-Where are the losses occurring?
-How efficient is overall sales performance?
+- Which product categories generate the highest profit?
+- Where are the losses occurring?
+- How efficient is overall sales performance?
 
 ---
 
@@ -25,22 +25,22 @@ How efficient is overall sales performance?
 ---
 
 ## ✦ Key Insights
-
-- Technology category generated the highest profit.
-- Some sub-categories such as Tables show negative profit.
-- Overall profit margin is around 12.5%.
+• Technology category generated the highest profit.
+• Some sub-categories such as Tables show negative profit.
+• Overall profit margin is around 12.5%.
 
 ---
+
 ## ✦ Tools & Technologies
-Microsoft Power BI
-DAX (Data Analysis Expressions)
+• Microsoft Power BI
+• DAX (Data Analysis Expressions)
 
 ---
 
 ## ✦ Data Modeling
-Data cleaned and structured for analysis
-Measures created for Profit and Profit Margin
-Efficient visual layout for decision-making
+• Data cleaned and structured for analysis.
+• Measures created for Profit and Profit Margin.
+• Efficient visual layout for decision-making.
 
 ---
 
@@ -54,9 +54,9 @@ Efficient visual layout for decision-making
 ---
 
 ## ✦ Future Improvements
-Add time-based analysis (monthly/quarterly trends)
-Include customer segmentation
-Build a sales forecasting model
+- Add time-based analysis (monthly/quarterly trends)
+- Include customer segmentation
+- Build a sales forecasting model
 
 ---
 
