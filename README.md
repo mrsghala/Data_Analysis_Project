@@ -16,7 +16,6 @@ How efficient is overall sales performance?
 ---
 
 ## ✦ Key Visualizations
-
 • KPI Cards – Overview of Total Sales, Profit, and Profit Margin
 • Quantity by Category – Distribution of sold products across categories
 • Profit by Category – Profit comparison between main product categories
