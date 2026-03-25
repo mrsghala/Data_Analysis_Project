@@ -1,26 +1,27 @@
 # Sales Performance Dashboard | Power BI
 
 ## ✦ Overview
-This project presents an interactive Sales Performance Dashboard built using Power BI.
-The dashboard provides insights into sales, profit, and profit margin across different product categories, sub-categories, and states within the United States.
-
-The goal of this project is to demonstrate how Business Intelligence tools can transform raw business data into meaningful insights that support data-driven decision making.
+This project presents an interactive sales dashboard built using Microsoft Power BI to analyze business performance across sales, profit, and product categories.
+The dashboard enables stakeholders to track key metrics, identify profitable segments, and uncover underperforming areas.
 
 ---
 
+## ✦ Business Problem
+Companies often struggle to identify which products drive profitability and which contribute to losses.
+This dashboard helps answer:
+Which product categories generate the highest profit?
+Where are the losses occurring?
+How efficient is overall sales performance?
+
+---
 
 ## ✦ Key Visualizations
 
-• KPI Cards – Overview of total Sales, Profit, and Profit Margin
-
+• KPI Cards – Overview of Total Sales, Profit, and Profit Margin
 • Quantity by Category – Distribution of sold products across categories
-
 • Profit by Category – Profit comparison between main product categories
-
-• Profit by Sub-Category – Detailed profitability analysis for each sub-category
-
+• Profit by Sub-Category – Detailed profitability analysis
 • Geographic Sales Distribution – Sales performance across U.S. states
-
 
 ---
 
@@ -30,7 +31,17 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 - Some sub-categories such as Tables show negative profit.
 - Overall profit margin is around 12.5%.
 
+---
+## ✦ Tools & Technologies
+Microsoft Power BI
+DAX (Data Analysis Expressions)
 
+---
+
+## ✦ Data Modeling
+Data cleaned and structured for analysis
+Measures created for Profit and Profit Margin
+Efficient visual layout for decision-making
 
 ---
 
@@ -43,11 +54,15 @@ The goal of this project is to demonstrate how Business Intelligence tools can t
 
 ---
 
+## ✦ Future Improvements
+Add time-based analysis (monthly/quarterly trends)
+Include customer segmentation
+Build a sales forecasting model
+
+---
 
 ## › Dataset
-
-The dataset used in this project was provided as a clean and ready-to-use dataset.
-You can access the dataset from this repository.
+The dataset used in this project was provided as a clean and ready-to-use dataset and is included in this repository.
 
 ---
 
