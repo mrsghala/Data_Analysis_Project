@@ -16,31 +16,31 @@ This dashboard helps answer:
 ---
 
 ## ✦ Key Visualizations
-• KPI Cards – Overview of Total Sales, Profit, and Profit Margin
-• Quantity by Category – Distribution of sold products across categories
-• Profit by Category – Profit comparison between main product categories
-• Profit by Sub-Category – Detailed profitability analysis
-• Geographic Sales Distribution – Sales performance across U.S. states
+- KPI Cards – Overview of Total Sales, Profit, and Profit Margin
+- Quantity by Category – Distribution of sold products across categories
+- Profit by Category – Profit comparison between main product categories
+- Profit by Sub-Category – Detailed profitability analysis
+- Geographic Sales Distribution – Sales performance across U.S. states
 
 ---
 
 ## ✦ Key Insights
-• Technology category generated the highest profit.
-• Some sub-categories such as Tables show negative profit.
-• Overall profit margin is around 12.5%.
+- Technology category generated the highest profit.
+- Some sub-categories such as Tables show negative profit.
+-  Overall profit margin is around 12.5%.
 
 ---
 
 ## ✦ Tools & Technologies
-• Microsoft Power BI
-• DAX (Data Analysis Expressions)
+- Microsoft Power BI
+- DAX (Data Analysis Expressions)
 
 ---
 
 ## ✦ Data Modeling
-• Data cleaned and structured for analysis.
-• Measures created for Profit and Profit Margin.
-• Efficient visual layout for decision-making.
+- Data cleaned and structured for analysis.
+- Measures created for Profit and Profit Margin.
+- Efficient visual layout for decision-making.
 
 ---
 
